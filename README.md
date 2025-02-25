@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Shreyash Rathod
+Created by Shreyash Rathod.
